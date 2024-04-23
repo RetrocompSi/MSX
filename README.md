@@ -4,11 +4,11 @@ https://en.wikipedia.org/wiki/MSX<br /><br />
 The MSX is a standardized home computer architecture introduced by ASCII Corporation in 1983. Initially conceived by Microsoft, it aimed to establish unified standards among various home computing system manufacturers,
 
 Hardware:<br />
-CPU: Z80A @ 3.5 MHz<br />
-Memory: 16 KB / 48 KB / 128 KB<br />
-Storage: External Compact Cassette recorder at 1500 bps (bits per second)<br />
-Graphics: 24 lines × 32 characters or 256 × 192 pixels graphics mode, seven colours at two levels of brightness each<br />
-Sound: beeper, AY-3-8912 sound chip
+CPU: Zilog Z80<br />
+Memory: 8-64 KB<br />
+Media: Cartridge, Cassette tape, Floppy disk, Mass storage<br />
+Graphics: 256 × 192 pixels, 16 colors<br />
+Sound: chip AY-3-8910
 
 Emulator:<br />
 QAOP<br />
