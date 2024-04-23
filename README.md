@@ -11,10 +11,14 @@ Graphics: 256 × 192 pixels, 16 colors<br />
 Sound: chip AY-3-8910
 
 Emulator:<br />
-QAOP<br />
-http://torinak.com/qaop<br />
-Klive IDE<br />
-https://github.com/Dotneteer/kliveide
+blueMSX<br />
+http://bluemsx.msxblue.com/download.html<br />
+WebMSX<br />
+https://webmsx.org<br />
+
+Compiler:<br />
+MsxCompilerV4<br />
+https://github.com/bosh77/MsxCompilerV4<br />
 
 Resources:<br />
 ZX Spectrum<br />
