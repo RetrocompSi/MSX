@@ -16,16 +16,8 @@ http://bluemsx.msxblue.com/download.html<br />
 WebMSX<br />
 https://webmsx.org<br />
 
-Compiler:<br />
-MsxCompilerV4<br />
-https://github.com/bosh77/MsxCompilerV4<br />
-
 Resources:<br />
-ZX Spectrum<br />
-https://en.wikipedia.org/wiki/ZX_Spectrum<br />
-World of Spectrum<br />
-https://worldofspectrum.org<br />
-SpectNet IDE<br />
-https://dotneteer.github.io/spectnetide<br />
+MSX Resource Center<br />
+[https://en.wikipedia.org/wiki/ZX_Spectrum](https://www.msx.org/)<br />
 
 ![alt text](https://github.com/RetrocompSi/ZX-Spectrum/blob/master/zx-spectrum.jpg)
