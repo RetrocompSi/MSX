@@ -20,4 +20,4 @@ Resources:<br />
 MSX Resource Center<br />
 [https://en.wikipedia.org/wiki/ZX_Spectrum](https://www.msx.org/)<br />
 
-![alt text](https://github.com/RetrocompSi/ZX-Spectrum/blob/master/zx-spectrum.jpg)
+![alt text]([https://github.com/RetrocompSi/ZX-Spectrum/blob/master/zx-spectrum.jpg](https://github.com/RetrocompSi/MSX/blob/main/msx.jpg))
